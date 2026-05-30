@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0284C7&center=true&vCenter=true&width=720&lines=Audio+Engineering;Signal+Processing;Data+Science;Building+with+sound%2C+systems%2C+and+data)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/bangyuanhan.me-e0f2fe?style=for-the-badge&logo=vercel&logoColor=0284c7&labelColor=f8fafc&color=e0f2fe)](https://bangyuanhan.me)
+[![Website](https://img.shields.io/badge/bangyuanhan.me-e0f2fe?style=for-the-badge&logo=safari&logoColor=0284c7&labelColor=f8fafc&color=e0f2fe)](https://bangyuanhan.me)
 
 </div>
 
@@ -17,9 +17,13 @@
 ![Python](https://img.shields.io/badge/Python-dbeafe?style=flat-square&logo=python&logoColor=2563eb)
 ![NumPy](https://img.shields.io/badge/NumPy-e0f2fe?style=flat-square&logo=numpy&logoColor=0284c7)
 ![Pandas](https://img.shields.io/badge/Pandas-f3e8ff?style=flat-square&logo=pandas&logoColor=7c3aed)
-![MATLAB](https://img.shields.io/badge/MATLAB-ffedd5?style=flat-square&logoColor=ea580c)
+![MATLAB](https://img.shields.io/badge/MATLAB-ffedd5?style=flat-square&logo=mathworks&logoColor=ea580c)
+![Swift](https://img.shields.io/badge/Swift-fff7ed?style=flat-square&logo=swift&logoColor=f97316)
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-f0fdf4?style=flat-square&logo=abletonlive&logoColor=16a34a)
-![Max/MSP](https://img.shields.io/badge/Max%2FMSP-f8fafc?style=flat-square&logoColor=334155)
+![Logic Pro](https://img.shields.io/badge/Logic%20Pro-ecfeff?style=flat-square&logo=apple&logoColor=0891b2)
+![Pro Tools](https://img.shields.io/badge/Pro%20Tools-eff6ff?style=flat-square&logo=avid&logoColor=2563eb)
+![Max/MSP](https://img.shields.io/badge/Max%2FMSP-f8fafc?style=flat-square&logo=cycling74&logoColor=334155)
+![Typora](https://img.shields.io/badge/Typora-f5f3ff?style=flat-square&logo=typora&logoColor=6d28d9)
 ![Git](https://img.shields.io/badge/Git-fff7ed?style=flat-square&logo=git&logoColor=f97316)
 
 </div>
