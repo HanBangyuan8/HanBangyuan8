@@ -1,52 +1,85 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:2563eb,100:06b6d4&text=Bangyuan%20Han&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Audio%20Engineering%20%C2%B7%20Signal%20Processing%20%C2%B7%20Data%20Science&descAlignY=58&animation=fadeIn)
+<img src="./assets/neon-signal.svg" width="100%" alt="Animated neon audio signal banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Audio+Engineering;Signal+Processing;Data+Science;Building+with+sound%2C+systems%2C+and+data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1900&pause=650&color=22D3EE&center=true&vCenter=true&width=900&lines=Audio+Engineer+in+the+signal+domain;DSP+%2B+data+science+%2B+creative+systems;Turning+sound+into+structure;Building+tools+that+listen)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Website-bangyuanhan.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bangyuanhan.me)
-[![GitHub](https://img.shields.io/badge/GitHub-HanBangyuan8-181717?style=for-the-badge&logo=github)](https://github.com/HanBangyuan8)
+[![Website](https://img.shields.io/badge/bangyuanhan.me-0B1026?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://bangyuanhan.me)
+[![Profile Views](https://komarev.com/ghpvc/?username=HanBangyuan8&style=for-the-badge&color=0891b2&label=PROFILE+SIGNAL)](https://github.com/HanBangyuan8)
+[![Followers](https://img.shields.io/github/followers/HanBangyuan8?style=for-the-badge&color=7c3aed&labelColor=111827&logo=github)](https://github.com/HanBangyuan8?tab=followers)
 
 </div>
 
----
+<br>
 
-### Focus
+<div align="center">
+
+### `audio -> signal -> model -> insight`
+
+</div>
 
 ```text
-Audio Engineering   -> listening, recording, spatial sound, production workflows
-Signal Processing   -> analysis, transforms, filtering, feature extraction
-Data Science        -> modeling, visualization, experiment-driven decisions
+CURRENT FREQUENCIES
+
+  48 kHz  | Audio engineering, production workflows, spatial listening
+  20 Hz   | Signal analysis, filtering, transforms, feature extraction
+  0 dBFS  | Data science, visualization, modeling, experiment design
+  +12 LU  | Creative technology, tools, systems, and clean interfaces
 ```
 
-### Toolkit
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square)
-![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=abletonlive&logoColor=white)
-![Max/MSP](https://img.shields.io/badge/Max%2FMSP-525252?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Stack Console
+
+![Python](https://img.shields.io/badge/Python-0b1026?style=for-the-badge&logo=python&logoColor=22d3ee)
+![NumPy](https://img.shields.io/badge/NumPy-0b1026?style=for-the-badge&logo=numpy&logoColor=7dd3fc)
+![Pandas](https://img.shields.io/badge/Pandas-0b1026?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+![MATLAB](https://img.shields.io/badge/MATLAB-0b1026?style=for-the-badge&logoColor=f97316)
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-0b1026?style=for-the-badge&logo=abletonlive&logoColor=34d399)
+![Max/MSP](https://img.shields.io/badge/Max%2FMSP-0b1026?style=for-the-badge&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-0b1026?style=for-the-badge&logo=git&logoColor=f97316)
+![VS Code](https://img.shields.io/badge/VS%20Code-0b1026?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
+
+<img src="https://skillicons.dev/icons?i=python,matlab,git,github,vscode,html,css,js&theme=dark" alt="Skill icons" />
 
 </div>
 
-### GitHub Pulse
+<br>
 
 <div align="center">
 
-![Bangyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanBangyuan8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+## Signal Telemetry
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanBangyuan8&layout=compact&theme=tokyonight&hide_border=true)
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=HanBangyuan8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanBangyuan8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=22D3EE&text_color=E5E7EB" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HanBangyuan8&theme=tokyonight&hide_border=true&background=0B1026&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanBangyuan8&bg_color=0b1026&color=e5e7eb&line=22d3ee&point=a78bfa&area=true&hide_border=true&radius=12" width="100%" alt="Contribution activity graph" />
 
 </div>
 
----
+<div align="center">
+
+## Trophy Rack
+
+<img src="https://github-profile-trophy.vercel.app/?username=HanBangyuan8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+<br>
+
+```text
+SYSTEM STATUS
+
+  input      : field recordings, sessions, datasets, experiments
+  process    : DSP, analysis, modeling, iteration
+  output     : tools, tracks, visuals, and decisions that feel clear
+  website    : https://bangyuanhan.me
+```
 
 <div align="center">
 
-`sound in` -> `signal shaped` -> `data understood`
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06b6d4,50:7c3aed,100:111827)
 
 </div>
