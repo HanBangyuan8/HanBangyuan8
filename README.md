@@ -19,7 +19,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-f3e8ff?style=flat-square&logo=pandas&logoColor=7c3aed)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ffedd5?style=flat-square&logo=mathworks&logoColor=ea580c)
 ![Swift](https://img.shields.io/badge/Swift-fff7ed?style=flat-square&logo=swift&logoColor=f97316)
-![Ableton Live](https://img.shields.io/badge/Ableton%20Live-f0fdf4?style=flat-square&logo=abletonlive&logoColor=16a34a)
+![Ableton Live](https://img.shields.io/badge/%E2%96%A6%20Ableton%20Live-f0fdf4?style=flat-square)
 ![Logic Pro](https://img.shields.io/badge/Logic%20Pro-ecfeff?style=flat-square&logo=apple&logoColor=0891b2)
 ![Pro Tools](https://img.shields.io/badge/%F0%9F%8E%9A%EF%B8%8F%20Pro%20Tools-eff6ff?style=flat-square)
 ![Max/MSP](https://img.shields.io/badge/%E2%8B%88%20Max%2FMSP-f8fafc?style=flat-square)
