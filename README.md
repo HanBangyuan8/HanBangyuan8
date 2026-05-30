@@ -21,9 +21,9 @@
 ![Swift](https://img.shields.io/badge/Swift-fff7ed?style=flat-square&logo=swift&logoColor=f97316)
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-f0fdf4?style=flat-square&logo=abletonlive&logoColor=16a34a)
 ![Logic Pro](https://img.shields.io/badge/Logic%20Pro-ecfeff?style=flat-square&logo=apple&logoColor=0891b2)
-![Pro Tools](https://img.shields.io/badge/Pro%20Tools-eff6ff?style=flat-square&logo=avid&logoColor=2563eb)
-![Max/MSP](https://img.shields.io/badge/Max%2FMSP-f8fafc?style=flat-square&logo=cycling74&logoColor=334155)
-![Typora](https://img.shields.io/badge/Typora-f5f3ff?style=flat-square&logo=typora&logoColor=6d28d9)
+![Pro Tools](https://img.shields.io/badge/%F0%9F%8E%9A%EF%B8%8F%20Pro%20Tools-eff6ff?style=flat-square)
+![Max/MSP](https://img.shields.io/badge/%E2%8B%88%20Max%2FMSP-f8fafc?style=flat-square)
+![Typora](https://img.shields.io/badge/Typora-f5f3ff?style=flat-square&logo=markdown&logoColor=6d28d9)
 ![Git](https://img.shields.io/badge/Git-fff7ed?style=flat-square&logo=git&logoColor=f97316)
 
 </div>
